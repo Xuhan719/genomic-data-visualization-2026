@@ -16,6 +16,11 @@ The bottom-most plot is a volcano plot that visualizes the differentially expres
 
 From my analysis, I believe that Cluster 1 represents proximal tubular cells in the kidney based on the high upregulation of the marker gene Acmsd. Using the Human Protein Atlas, I found that Acmsd expression is highly enriched in kidney proximal tubule cells. Other top upregulated genes in my Cluster 1 include Aqp1, Acox2, and Acsm3, which are also consistent with proximal tubule function. Moreover, the spatial plots of this cluster and Acmsd expression show that cells are concentrated in the cortex region of the kidney, which is where proximal tubules are located anatomically, further supporting this cell-type annotation. 
 
+Resources:
+https://www.proteinatlas.org/ENSG00000153086-ACMSD/single+cell
+https://www.proteinatlas.org/ENSG00000168306-ACOX2/single+cell
+https://www.proteinatlas.org/ENSG00000005187-ACSM3/single+cell
+
 ### Code 
 
 ```r
